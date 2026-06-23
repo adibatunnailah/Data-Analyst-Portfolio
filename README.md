@@ -55,6 +55,11 @@ This dataset is not real-world data but is structured to reflect realistic custo
 - Grouped data to support KPI calculations (purchase rate by segment)
 - Built calculated fields for purchase rate (%)
    
+---
+
+## 📶 Dashboard Preview
+
+![Dashboard](./image/bikers-sales-dashboard.png)
 
 ---
 
