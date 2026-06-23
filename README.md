@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio – Biker Sales Dashboard
 
 ## 🧠 Overview
-This project analyzes customer profile and purchase behaviour for bicycle sales to understand what factors influence bike purchases across different regions, age groups, income levels, and commute distances.
+This project analyzes customer profile and purchase behaviour for motorbike sales to understand what factors influence bike purchases across different regions, age groups, income levels, and commute distances.
 
 The goal is to identify key customer segments and behavioural patterns that drive higher purchase rates, and provide actionable insights for marketing and sales strategy.
 
@@ -22,9 +22,18 @@ The goal is to identify key customer segments and behavioural patterns that driv
 
 ---
 
+
 ## 📂 Dataset
-- **Source:** Simulated / Bicycle Customer Sales Dataset
-- **Size:** 1,000 customers
+
+The dataset used in this project is a simulated bikers customer sales dataset designed for data analysis practice and portfolio development.
+
+### 📊 Dataset Overview
+- **Source:** Simulated dataset (created for educational purposes)
+- **Size:** 1,000 customer records
+- **Format:** CSV
+
+### 📌 Notes
+This dataset is not real-world data but is structured to reflect realistic customer profiles including income, age, occupation, and commute distance.
 
 ### Key Columns:
 - Age  
@@ -64,7 +73,7 @@ The goal is to identify key customer segments and behavioural patterns that driv
 ## 💡 Recommendations
 - Focus marketing campaigns on middle-aged, high-income customers  
 - Target urban areas where commute distance is short (0–5 miles)  
-- Promote cycling benefits for professionals with short daily commute  
+- Promote biking benefits for professionals with short daily commute  
 - Improve engagement strategies for older age groups  
 - Expand in high-performing regions like North America  
 
