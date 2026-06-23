@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Biker Sales Dashboard
+# 📊 Biker Sales Dashboard
 
 ## 🧠 Overview
 This project analyzes customer profile and purchase behaviour for motorbike sales to understand what factors influence bike purchases across different regions, age groups, income levels, and commute distances.
