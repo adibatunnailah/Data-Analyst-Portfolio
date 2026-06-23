@@ -59,7 +59,7 @@ This dataset is not real-world data but is structured to reflect realistic custo
 
 ## 📶 Dashboard Preview
 
-![Dashboard](./image/bikers-sales-dashboard.png)
+![Dashboard](bikers-sales-dashboard.png)
 
 ---
 
