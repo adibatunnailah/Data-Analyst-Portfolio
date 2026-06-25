@@ -63,6 +63,12 @@ This dataset is not real-world data but is structured to reflect realistic custo
 
 ---
 
+## 📶 🔗 Click here to view the interactive dashboard
+
+📁 Dataset: BIKERS SALES DASHBOARD.xlsm  
+
+---
+
 ## 📊 Analysis & Insights
 
 ### Key Findings:
