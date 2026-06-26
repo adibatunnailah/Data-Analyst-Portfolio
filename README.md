@@ -1,6 +1,4 @@
 # 🏍️ Biker Sales Dashboard  
-### Data Analysis | Customer Behaviour | Excel Dashboard  
-
 ---
 
 ## 🧠 Overview  
