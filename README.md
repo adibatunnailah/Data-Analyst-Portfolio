@@ -1,130 +1,104 @@
-# 🏍️ Biker Sales Dashboard
+# 🏍️ Biker Sales Dashboard  
+### Data Analysis | Customer Behaviour | Excel Dashboard  
 
 ---
 
-## 🧠 Overview
-This project analyzes customer profile and purchase behaviour for motorbike sales to understand what factors influence bike purchases across different regions, age groups, income levels, and commute distances.
+## 🧠 Overview  
+This project analyzes customer profiles and purchase behaviour in motorbike sales to identify key factors influencing purchasing decisions across regions, age groups, income levels, and commute distances.
 
-The goal is to identify key customer segments and behavioural patterns that drive higher purchase rates, and provide actionable insights for marketing and sales strategy.
-
----
-
-## 🎯 Problem Statement
-- What type of customers are more likely to purchase bikes?
-- How do income, age, and commute distance influence purchase behaviour?
-- Which regions and segments should be targeted to increase sales?
-- How can marketing strategy be optimized based on customer behaviour?
+The objective is to uncover high-value customer segments and provide data-driven insights for marketing and sales strategy improvement.
 
 ---
 
-## 🛠️ Tools & Technologies
-- Microsoft Excel (Dashboard & Data Visualization)
-- Data Cleaning & Transformation (Excel formulas / Pivot Tables)
-- Data Visualization (Charts, KPI cards, slicers)
+## 🎯 Problem Statement  
+- Which customer segments are most likely to purchase bikes?  
+- How do income, age, and commute distance influence purchase behaviour?  
+- Which regions contribute the highest conversion rates?  
+- How can marketing strategies be optimized using customer insights?  
 
 ---
 
-## 📂 Dataset
-
-The dataset used in this project is a simulated bikers customer sales dataset designed for data analysis practice and portfolio development.
-
-### 📊 Dataset Overview
-- **Source:** Simulated dataset (created for educational purposes)
-- **Size:** 1,000 customer records
-- **Format:** CSV
-
-### 📌 Notes
-This dataset is not real-world data but is structured to reflect realistic customer profiles including income, age, occupation, and commute distance.
-
-### Key Columns:
-- Age
-- Gender
-- Income
-- Marital Status
-- Education Level
-- Occupation
-- Commute Distance
-- Region
-- Purchase Status (Yes/No)
+## 🛠️ Tools & Technologies  
+- Microsoft Excel (Dashboard & Visualization)  
+- Pivot Tables & Data Modeling  
+- Excel Formulas & KPI Calculations  
+- Data Cleaning & Transformation  
 
 ---
 
-## 🔍 Data Cleaning & Preparation
-- Standardized categorical values for gender
-- Standardized Marital Status labels
-- Created Age Bracket (Adolescent, Middle Age, Old)
-- Grouped data to support KPI calculations (purchase rate by segment)
-- Built calculated fields for purchase rate (%)
+## 📂 Dataset Overview  
+
+- **Source:** Simulated dataset (for learning & portfolio use)  
+- **Records:** 1,000 customers  
+- **Format:** CSV  
+
+### 📌 Features  
+Age, Gender, Income, Marital Status, Education Level, Occupation, Commute Distance, Region, Purchase Status  
+
+> ⚠️ This dataset is synthetic and created for analysis practice purposes only.
 
 ---
 
-## 📶 Dashboard Preview
+## 🧹 Data Preparation  
+- Standardized categorical values (Gender, Marital Status)  
+- Created Age Group segmentation (Adolescent / Middle Age / Old)  
+- Built KPI metrics for purchase rate (%)  
+- Used Pivot Tables for aggregation and dashboard building  
 
+---
+
+## 📊 Dashboard Preview  
 ![Dashboard](bikers-sales-dashboard.png)
 
 ---
 
-## ✨ Interactive Dashboard File
-
-📁 Dataset:  
-👉 [BIKERS SALES DASHBOARD.xlsm](./BIKERS%20SALES%20DASHBOARD.xlsm)
+## 📁 Interactive File  
+👉 [Download Excel Dashboard](./BIKERS%20SALES%20DASHBOARD.xlsm)
 
 ---
 
-## ⚠️ Important Notice (VBA Macro File)
+## ⚠️ VBA Macro Instructions  
 
-This project contains **VBA macros (Excel automation code)**.
+This Excel file contains VBA macros for automation.
 
-Please follow the steps below before opening the file:
+### Steps to open:
+1. Right-click file → Properties  
+2. Tick **Unblock** (if available) → Apply  
+3. Open in Excel  
+4. Click **Enable Content** when prompted (above)
 
-### 🔓 Step 1: Unblock the file
-- Right-click the downloaded Excel file
-- Click **Properties**
-- Tick ✔ **Unblock** (if available)
-- Click **Apply** → OK
-
-### 📂 Step 2: Enable macros in Excel
-- Open the file in Microsoft Excel
-- Click **“Enable Content”** when prompted (yellow security bar)
-
-### 💡 Why this is needed
-Windows blocks macros by default for security reasons. This is a normal Excel security feature, not an error.
-
-### 👍 Safe to use
-This file is used only for:
-- Data analysis automation
-- Dashboard updates
-- Reporting tasks
+> Macros are safe and used only for dashboard automation and reporting.
 
 ---
 
-## 📊 Analysis & Insights
-
-### Key Findings:
-- 📈 Customers with higher income are more likely to purchase bikes
-- 👨‍👩‍👧 Middle-aged group (31–54) shows highest purchase count
-- 🚴 Short commute distance (0–2 miles) has highest purchase rate
-- 🌍 North America is top-performing region
-- 📉 Older age groups show lower purchase probability
-- 👔 Professionals and skilled workers are key segments
+## 📈 Key Insights  
+- 💰 High-income customers have higher purchase probability  
+- 👥 Middle-aged group (31–54) is the strongest segment  
+- 🚴 Short commute distance (0–2 miles) shows highest conversion rate  
+- 🌎 North America is the top-performing region  
+- 👨‍💼 Professionals & skilled workers dominate buyer segment  
+- 📉 Older age groups show lower purchase likelihood  
 
 ---
 
-## 💡 Recommendations
-- Focus marketing on middle-aged, high-income customers
-- Target urban areas with short commute distance
-- Promote cycling benefits for daily commuters
-- Improve engagement for older age groups
-- Expand in high-performing regions
+## 💡 Business Recommendations  
+- Target marketing toward middle-aged, high-income customers  
+- Focus on urban commuters with short travel distances  
+- Improve engagement strategies for older age groups  
+- Expand campaigns in high-performing regions  
+- Promote commuter-friendly bike offerings  
 
 ---
 
-## 🚀 Project Outcome
-This dashboard helps businesses identify high-value customer segments and supports data-driven marketing strategies that improve conversion rates and sales performance.
+## 🚀 Project Impact  
+This dashboard helps businesses:
+- Identify high-value customer segments  
+- Improve targeted marketing strategies  
+- Increase conversion rates using data-driven decisions  
 
 ---
 
-## 📫 Contact
-- **Name:** Adibatunnailah binti Abdul Razak  
-- **Email:** dibarazak2@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/adibatunnailah/
+## 📬 Contact  
+**Adibatunnailah binti Abdul Razak**  
+📧 Email: dibarazak2@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/adibatunnailah  
